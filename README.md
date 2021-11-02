@@ -2,6 +2,10 @@
 
 Projeto desenvolvido para o estudo de hooks no React.
 
-## UseState()
+## useState()
 
 ![](public/assets/images/useState.svg)
+
+## useEffect()
+
+![](public/assets/images/useEffect.svg)
